@@ -1,0 +1,76 @@
+Filename : MySight.txt
+exception thrown : org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://aggregationservice-pearson-prep-us1-dev.bite.pearsondev.tech/api/cards/cloud": Read timed out; nested exception is java.net.SocketTimeoutException: Read timed out
+message : error occurred
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : ASCII A.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : ASCII B.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Bullet1.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Bullet2.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Bullet3.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Bullet4.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Bullet5.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Copy of Demo.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Copy of Demo(1).docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Demo.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : MySelf.txt
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : MySight.txt
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : sample docx.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Sent to SCS.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : Sociology Lecture Notes.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : The Island.docx
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 null
+message : error occurred
+===================================

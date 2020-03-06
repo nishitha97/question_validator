@@ -1,0 +1,172 @@
+Filename : Bullet4.docx
+exception thrown : org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://aggregationservice-pearson-prep-us1-dev.bite.pearsondev.tech/api/aggregated_questions/text": Read timed out; nested exception is java.net.SocketTimeoutException: Read timed out
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet4.docx
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : Bullet5.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet5.docx
+===================================
+Filename : Bullet1.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet1.docx
+===================================
+Filename : ASCII B.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE ASCII B.docx
+===================================
+Filename : Demo.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Demo.docx
+===================================
+Filename : Sent to SCS.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Sent to SCS.docx
+===================================
+Filename : Bullet2.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet2.docx
+===================================
+Filename : Bullet4.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet4.docx
+===================================
+Filename : ASCII A.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE ASCII A.docx
+===================================
+Filename : Bullet3.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet3.docx
+===================================
+Filename : Sociology Lecture Notes.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Sociology Lecture Notes.docx
+===================================
+Filename : The Island.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE The Island.docx
+===================================
+Filename : Copy of Demo.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Copy of Demo.docx
+===================================
+Filename : Copy of Demo(1).docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Copy of Demo(1).docx
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : sample docx.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE sample docx.docx
+===================================
+Filename : Bullet5.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet5.docx
+===================================
+Filename : Bullet1.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet1.docx
+===================================
+Filename : ASCII B.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE ASCII B.docx
+===================================
+Filename : Demo.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Demo.docx
+===================================
+Filename : Sent to SCS.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Sent to SCS.docx
+===================================
+Filename : Bullet2.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet2.docx
+===================================
+Filename : Bullet4.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet4.docx
+===================================
+Filename : ASCII A.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE ASCII A.docx
+===================================
+Filename : Bullet3.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Bullet3.docx
+===================================
+Filename : Sociology Lecture Notes.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Sociology Lecture Notes.docx
+===================================
+Filename : The Island.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE The Island.docx
+===================================
+Filename : Copy of Demo.docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Copy of Demo.docx
+===================================
+Filename : Copy of Demo(1).docx
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : UNEXPECTED ERROR IN DOCUMENT FILE Copy of Demo(1).docx
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
+Filename : txt.txt
+exception thrown : org.springframework.web.client.HttpClientErrorException$BadRequest: 400 null
+message : EXPECTED ERROR FOR FILE /home/user/Desktop/api-testing/file-read/src/main/resources/docs/txt.txt
+===================================
